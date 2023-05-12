@@ -1,2 +1,2 @@
 # Oneplus_Budsz
-Created by html and css
+Created by HTML and CSS
